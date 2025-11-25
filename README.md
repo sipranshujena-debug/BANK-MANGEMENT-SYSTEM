@@ -119,5 +119,5 @@ GUI using C++ or Python
 
 AUTHOR: SIPRANSU JENA
 
-![image alt](https://github.com/sipranshujena-debug/BANK-MANGEMENT-SYSTEM/blob/bdaff33aad6cd7b100f5b3c33444ac623a2c01ff/OUTPUT.png)
+![image alt](https://github.com/sipranshujena-debug/BANK-MANGEMENT-SYSTEM/blob/672a79222eb683c5229abd3143f1ef2c5ab6d010/Untitled%20design.png)
 
